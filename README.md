@@ -1,4 +1,3 @@
-## Olá Mundo! 👋
 <a href="https://www.youtube.com/">
  <img height = "100px" width="1015px" src="https://github.com/jonatasportela/work-shit/blob/d6ff6e58a5db79bf924c697da881c095c11abf7b/buy-me-a-coffe-512x512.png"> 
 </a>
