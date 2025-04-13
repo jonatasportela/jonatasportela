@@ -1,6 +1,7 @@
 <a href="https://www.youtube.com/">
- <img height = "100px" width="1015px" src="https://github.com/jonatasportela/work-shit/blob/d6ff6e58a5db79bf924c697da881c095c11abf7b/buy-me-a-coffe-512x512.png"> 
+ <img src="https://github.com/jonatasportela/work-shit/blob/631eb95310dea6db99444f9e493bedeac8a06bcd/github-banner1.png"> 
 </a>
+<h3>Os repositórios estão sendo atualizados conforme minha evolução</h3>
 <!--https://www.youtube.com/
 **jonatasportela/jonatasportela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
