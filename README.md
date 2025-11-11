@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/">
- <img src="https://github.com/jonatasportela/work-shit/blob/631eb95310dea6db99444f9e493bedeac8a06bcd/github-banner1.png"> 
+ <img src="https://i.imgur.com/EsYB3gS.png"> 
 </a>
 <h3>Os repositórios estão sendo atualizados conforme minha </h3>
 <!--https://www.youtube.com/
